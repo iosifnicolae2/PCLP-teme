@@ -1,6 +1,4 @@
 // tema1.cpp : Defines the entry point for the console application.
-//
-
 #include "stdafx.h"
 #include <stdio.h>
 #include <conio.h>
@@ -84,11 +82,7 @@ int main()
 	//problema2();
 	problema3();
 
-
-
-
 	_getch();
-
     return 0;
 }
 
