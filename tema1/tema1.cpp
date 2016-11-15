@@ -63,6 +63,7 @@ void afisare_student(int id, char nume[], char prenume[], char grupa[], char dat
 }
 
 void problema3() {
+
 	char nume[50][50], prenume[50][50], grupa[50][50], data_nasterii[50][50];
 	for (int i = 1; i <= 3; i++)
 		citeste_student(i, nume[i], prenume[i], grupa[i], data_nasterii[i]);
